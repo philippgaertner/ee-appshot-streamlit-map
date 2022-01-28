@@ -42,7 +42,7 @@ with row1_1:
       """
     Creator: Philipp Gärtner | Last Update: 25/01/2022
     """)
-    st.markdown("[![Follow](https://img.shields.io/twitter/follow/Mixed_Pixels?style=social)](https://twitter.com/Mixed_Pixels)&nbsp[![Coffee for Philipp](https://img.shields.io/badge/Coffee%20for%20Philipp--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.buymeacoffee.com/0l94rzR)")
+    st.markdown("[![Follow](https://img.shields.io/twitter/follow/Mixed_Pixels?style=social)](https://twitter.com/Mixed_Pixels) [![Coffee for Philipp](https://img.shields.io/badge/Coffee%20for%20Philipp--yellow.svg?logo=buy-me-a-coffee&logoColor=orange&style=social)](https://www.buymeacoffee.com/0l94rzR)")
     
 with row1_2:
     st.write(
