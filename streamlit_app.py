@@ -174,9 +174,8 @@ if __name__ == "__main__":
     mask = (df['zoom'] >= zoom_filter[0]) & (df['zoom'] <= zoom_filter[1])
 
     df_filtered = df.loc[mask]
-
-
-    for zoom in df_filtered['zoom'].unique():
+    
+    for zoom in [zoom_filter[1]]:
         dict_years[zoom] = generate_map(df_filtered)
 
 
